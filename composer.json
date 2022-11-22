@@ -1,0 +1,19 @@
+{
+    "name": "okmarq/php-cli-demo",
+    "description": "PHP command-line tool demo",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Okmarq\\PhpCliDemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joel Okoromi",
+            "email": "okmarq@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
